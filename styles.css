@@ -263,26 +263,3 @@ ul a{
 .pages{
     padding-top: 25px;
 }
-
-/* Back to Top Button */
-.back-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    padding: 10px 15px;
-    background: #007185;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    display: none;
-}
-
-.back-to-top:hover {
-    background: #005a63;
-}
-
-
-.copy-right{
-    padding-top: 5px;
-}
